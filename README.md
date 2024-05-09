@@ -5,7 +5,7 @@
 3.visual studio를 열어 콘솔 앱 c++로 c++코드 작성 환경 만들기<br>
 
 ## Visual Studio 환경 구축
-- 속성 설정시 맨위 구성이 모든 구성으로 되었는지 확인<br>
+*속성 설정시 맨위 구성이 모든 구성으로 되었는지 확인<br>
 4.젤 위에 <b>프로젝트 탭</b>에서 <b>속성</b> 창을 클릭후 설정 편집<br>
 5.C/C++ 탭에 일반 선택후 추가 포함 디렉터리 부분 편집<br>
 -> C:\opencv\build\include<br>
@@ -27,6 +27,7 @@
 11.다시 위에 열었더 속성창을 열어 구성속성 탭에 디버깅-> 명령인수를 사진 파일 이름으로 변경 ex)test.jpg<br>
 <img src="https://github.com/cheol333/use_openCV/blob/main/set_img/set4.png?raw=true" width="500px" height="300px">
 <hr>
+
 ## OpenCV 중 edge 활용해보기
 - 원본 이미지
 <img src="https://github.com/cheol333/use_openCV/blob/main/test.jpg?raw=true" width="500px" height="300px">
