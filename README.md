@@ -29,7 +29,7 @@
 <hr>
 
 ## OpenCV 중 edge 활용해보기
-- 원본 이미지
+-원본 이미지<br>
 <img src="https://github.com/cheol333/use_openCV/blob/main/test.jpg?raw=true" width="500px" height="300px"><br>
-- edge 적용 후 결과
+-edge 적용 후 결과<br>
 <img src="https://github.com/cheol333/use_openCV/blob/main/edge_result.png?raw=true" width="500px" height="300px">
