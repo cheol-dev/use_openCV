@@ -8,14 +8,14 @@
 - 속성 설정시 맨위 구성이 모든 구성으로 되었는지 확인
 4.젤 위에 <b>프로젝트 탭</b>에서 <b>속성</b> 창을 클릭후 설정 편집<br>
 5.C/C++ 탭에 일반 선택후 추가 포함 디렉터리 부분 편집<br>
--> C:\opencv\build\include
+-> C:\opencv\build\include<br>
 <img src="https://github.com/cheol333/use_openCV/blob/main/set_img/set1.png?raw=true" width="500px" height="300px">
 6.링커 탭에 일반 -> 추가 라이브러리 디렉터리 편집<br>
--> C:\opencv\build\x64\vc16\lib
-<img src="https://github.com/cheol333/use_openCV/blob/main/set_img/set1.png?raw=true" width="500px" height="300px">
+-> C:\opencv\build\x64\vc16\lib<br>
+<img src="https://github.com/cheol333/use_openCV/blob/main/set_img/set2.png?raw=true" width="500px" height="300px">
 7. 링커 탭에 입력 -> 추가 종속성 편집
--> opencv_world490d.lib
--> opencv_world490.lib
-<img src="https://github.com/cheol333/use_openCV/blob/main/set_img/set1.png?raw=true" width="500px" height="300px">
+-> opencv_world490d.lib<br>
+-> opencv_world490.lib<br>
+<img src="" width="500px" height="300px">
 <hr>
-8.윈도우 검색으로 '시스템 환경 변수 편집' 입력 후 편집
+8.윈도우 검색으로 '시스템 환경 변수 편집' 입력 후 편집<br>
