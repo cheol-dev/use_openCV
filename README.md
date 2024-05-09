@@ -9,5 +9,5 @@
 4.젤 위에 <b>프로젝트 탭</b>에서 <b>속성</b> 창을 클릭후 설정 편집<br>
 5.C/C++ 탭에 일반 선택후 추가 포함 디렉터리 부분 편집<br>
 -> C:\opencv\build\include
-<img src="https://github.com/cheol333/use_openCV/blob/main/set_img/set1.png?raw=true" width="800px" height="500px">
+<img src="https://github.com/cheol333/use_openCV/blob/main/set_img/set1.png?raw=true" width="500px" height="300px">
 6.
