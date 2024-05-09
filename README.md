@@ -28,4 +28,7 @@
 <img src="https://github.com/cheol333/use_openCV/blob/main/set_img/set4.png?raw=true" width="500px" height="300px">
 <hr>
 ## OpenCV 중 edge 활용해보기
-<span><img src="" width="500px" height="300px"><img src="" width="500px" height="300px"></span>
+- 원본 이미지
+<img src="https://github.com/cheol333/use_openCV/blob/main/test.jpg?raw=true" width="500px" height="300px">
+- edge 적용 후 결과
+<img src="" width="500px" height="300px">
