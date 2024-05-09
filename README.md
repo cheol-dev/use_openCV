@@ -23,7 +23,7 @@
 <hr>
 9.코드로 돌아와서 'C:\opencv\sources\samples\cpp' 여기에 있는 예제 파일을 가지고 실행 해보기<br>
 10.이미지를 사용하려면 오른쪽 솔루션 탐색기에서 오른쪽 키를 눌러 '파일 탐색기에서 폴더 열기' 누른 후 이미지 파일 넣어주기<br>
-<img src="" width="500px" height="300px">
+<img src="https://github.com/cheol333/use_openCV/blob/main/set_img/set4.png?raw=true" width="500px" height="300px">
 11.다시 위에 열었더 속성창을 열어 구성속성 탭에 디버깅-> 명령인수를 사진 파일 이름으로 변경 ex)test.jpg<br>
 <img src="" width="500px" height="300px">
 <hr>
