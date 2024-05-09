@@ -31,4 +31,4 @@
 - 원본 이미지
 <img src="https://github.com/cheol333/use_openCV/blob/main/test.jpg?raw=true" width="500px" height="300px">
 - edge 적용 후 결과
-<img src="" width="500px" height="300px">
+<img src="https://github.com/cheol333/use_openCV/blob/main/edge_result.png?raw=true" width="500px" height="300px">
